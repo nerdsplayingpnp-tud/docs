@@ -23,5 +23,5 @@ extra:
       link: /en/ 
       lang: en
     - name: Deutsch
-      link: /de/
+      link: /docs/
       lang: de
