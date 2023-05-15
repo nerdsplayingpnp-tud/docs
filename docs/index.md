@@ -15,5 +15,3 @@ Die vollständige Dokumentation findest du unter [mkdocs.org](https://www.mkdocs
     docs/
         index.md # Die Homepage der Dokumentation.
         ...       # Andere Markdown-Seiten, Bilder und andere Dateien.
-
-Übersetzt mit <www.DeepL.com/Translator> (kostenlose Version)
