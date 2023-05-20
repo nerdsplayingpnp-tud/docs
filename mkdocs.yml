@@ -17,11 +17,3 @@ theme:
         name: Switch to light mode
       primary: indigo
       accent: deep purple
-extra:
-  alternate:
-    - name: English
-      link: /docs/en/ 
-      lang: en
-    - name: Deutsch
-      link: /docs/
-      lang: de
