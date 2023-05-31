@@ -19,5 +19,5 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-      primary: indigo
-      accent: deep purple
+      primary: deep purple
+      accent: indigo
