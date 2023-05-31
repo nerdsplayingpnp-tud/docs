@@ -1,0 +1,2 @@
+Die Nerds Playing PnP behaust einige, eigene Code-Projekte, welche alle quelloffen und unter offenen Lizenzmodellen verfügbar sind.
+Lies dir gerne durch, was wir so machen und schau dir die Projekte an, wenn du magst!
