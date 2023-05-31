@@ -1,6 +1,10 @@
 site_name: Nerds Playing PnP - Docs
 theme: 
   name: material
+  features:
+  - navigation.instant
+  logo: assets/die.png
+  favicon: assets/diex64.png
   palette: 
     # Palette toggle for light mode
     - scheme: default
