@@ -21,3 +21,7 @@ theme:
         name: Switch to light mode
       primary: deep purple
       accent: indigo
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
