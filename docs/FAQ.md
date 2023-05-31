@@ -10,10 +10,15 @@
 
     Wir empfehlen dir, dich vor deiner ersten Kampagne durch diesen Guide durchzuklicken. Dungeonmaster:innen werden in einem Briefing über das in dem Abenteuer verwendete Regelwerk aufklären und sind dir bei Fragen selbstverständlich auch immer behilflich!
 
-!!! info "Ich würde gerne selbst Dungeonmaster:in werden, aber ich hab das noch nie gemacht!"
+!!! info "Ich würde gerne selbst Dungeonmaster:in werden!"
 
-    Auch hierfür haben wir eine Ressourcensammlung! Schau sie dir hier an: [Einstiegsressourcen](/Einstieg - DM)
+    Wenn du dir noch nicht sicher bist wie man DMed haben wir auch eine hierfür Ressourcensammlung! Schau sie dir hier an: [Einstiegsressourcen](/Einstieg - DM).
+    
+    Um Kampagnen bei uns anzubieten, müssen wir dich als Dungeonmaster:in verifizieren. Das klingt schlimmer als es ist, es handelt sich lediglich um ein kurzes Gespräch mit einem oder mehreren Mitgliedern, in denen wir dir ein paar Fragen stellen und dir den Bot näher erklären. Natürlich hast du auch die Möglichkeit uns Fragen zu stellen.
 
+    Um dich zu bewerben, fülle bitte dieses [Formular](https://docs.google.com/forms/d/e/1FAIpQLSfa57B59w67_z46vePDpQRg5URBFPtBGNa657HFSGKybT85lQ/viewform?usp=sf_link) aus. Wir kommen dann nächstmöglich auf dich zu, um einen Termin zur kurzen Unterhaltung zu finden (Gerne über Discord!). Mache dich bitte des weiteren mit den DM-spezifischen Regeln in [#rules](https://discord.gg/pPCdCK5wQu) vertraut. 
+
+    Hier auch noch einmal der explizite Hinweis, dass das Besitzen der DM Rolle dich zu nichts verpflichtet. Biete Kampagnen so an, wie du Zeit und Lust hast. Verantwortung hast du erst dann gegenüber deinen Spieler:innen, wenn du eine Kampagne leitest. 
 
 !!! info "Ich habe Feedback, Vorschläge und/oder Probleme, die ich gerne kundtun möchte!"
 
