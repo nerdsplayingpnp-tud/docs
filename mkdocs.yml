@@ -25,5 +25,6 @@ theme:
       accent: indigo
 markdown_extensions:
   - admonition
+  - def_list
   - pymdownx.details
   - pymdownx.superfences

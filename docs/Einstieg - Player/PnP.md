@@ -1,6 +1,32 @@
 # Pen and Paper allgemein
 
-## Artikel
+### Was ist Pen and Paper
+Bei Pen and Paper (PnP) geht es vor allem um das kollaborative Geschichtenerzählen. Du findest dich mit einigen Leuten und einem:r Spielleiter:in zusammen und dann kann es auch schon los gehen, nämlich mit einem Character, welchen du dir entweder selber ausdenkst oder einen von dem:r Spielleiter:in bekommst. Danach wiederholst du immer das gleiche grobe Grundprinzip und das funktioniert wie folgt:
+***
+1. Der:Die Spielleiter:in erklärt eine Situation oder Problem in dem sich eure Charactere gerade befinden.
+
+1. Jemand erklärt was deren Character gerne machen würde.
+
+1. *(Optional) Evtl. kann es sein, dass der:die Spielleiter:in hier einen Würfelwurf möchte, um den Aussgang zu bestimmen, aber dazu kommen wir später.*
+
+1. Dann beschreibt der:die Spielleiter:in welche Auswirkungen die Aktion des handelnden Characters hat.  
+***
+
+Natürlich muss es bei PnP nicht immer nur um Action und darum aktiv ein Problem zu lösen. Es gibt auch Möglichkeiten für Characterdevelopment und ruhige Momente in denen sich Charactere einfach mal unterhalten können oder auch weniger ernste Momente in denen lustige shenanigans stattfinden.
+
+### Was brauche ich für PnP
+- [Character-Sheet](#character-sheet)
+- [Würfel](#würfel)
+#### Character-Sheet
+In deinem Character-Sheet stehen die **Werte**, die deinen Character in dem gerade gespielten System definieren, zum Beispiel wie stark oder intelligent der Character ist. Auch die rudimentären Dinge, wie **Name, Alter, Klasse**, etc. lassen sich hier finden. Weiterhin sind hier deine **Fähigkeiten** und auch dein **Inventar**, also was der Character mit sich rumträgt, festgehalten. Das Character-Sheet kannst du analog haben (der Papieranteil in Pen and *Paper*) oder auch digital.
+
+!!! info 
+    Diese Character-Sheets können sich von Regelwerk zu Regelwerk stark unterscheiden, jedoch decken sie meistens die oben genannten Punkte ab.
+
+#### Würfel
+Mit den Würfeln kommt ein wenig Zuffälligkeit und Unbestimmtheit in das Spiel.
+## Weiterführende Links
+### Artikel
 #### [Pen and Paper: Der ultimative Leitfaden für Einsteiger und Experten](https://mightygm.de/pen-and-paper/)
 - **Sprache:** deutsch
 - **Länge:** ca. 25 min Lesezeit
@@ -14,7 +40,7 @@ Sehr ausführlicher Artikel, deckt viele Themengebiete ab und hat auch Links, di
 Kurzer Artikel über das grobe Konzept von Pen and Paper, teilweise sind spezifische Begriffe und auch das Szenario aus dem Regelwerk "How to be a Hero".
 ***
 
-## Videos
+### Videos
 
 #### [Der Einstieg ins Pen and Paper Rollenspiel - Wie fange ich an?](https://youtu.be/S3UoPQzb8nE)
 - **Länge:** 9:35 min
