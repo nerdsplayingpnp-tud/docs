@@ -20,11 +20,18 @@ Natürlich muss es bei PnP nicht immer nur um Action und darum aktiv ein Problem
 #### Character-Sheet
 In deinem Character-Sheet stehen die **Werte**, die deinen Character in dem gerade gespielten System definieren, zum Beispiel wie stark oder intelligent der Character ist. Auch die rudimentären Dinge, wie **Name, Alter, Klasse**, etc. lassen sich hier finden. Weiterhin sind hier deine **Fähigkeiten** und auch dein **Inventar**, also was der Character mit sich rumträgt, festgehalten. Das Character-Sheet kannst du analog haben (der Papieranteil in Pen and *Paper*) oder auch digital.
 
-!!! info 
+!!! note 
     Diese Character-Sheets können sich von Regelwerk zu Regelwerk stark unterscheiden, jedoch decken sie meistens die oben genannten Punkte ab.
 
 #### Würfel
-Mit den Würfeln kommt ein wenig Zuffälligkeit und Unbestimmtheit in das Spiel.
+Mit den Würfeln kommt ein wenig Zuffälligkeit und Unbestimmtheit in das Spiel. Die Würfel, die in den Pen and Paper verwendet werden sind aber nicht nür 6-seitig. Diese Würfel sind meist abgekürzt mit einem W für Würfel (oder D für Die) und danach einer Zahl für die Anzahl an Seiten. 
+
+ Hier die Übersicht der [Würfel](../Würfel).
+
+!!! note
+    Verschiedene Regelwerke nutzen meist nur einen Teil dieser Würfel, manche aber auch alle, wie z.B. [DnD](../DnD).
+
+Wie werden die Würfel nun genutzt? Wenn eine Aktion von einem:r Spieler:in beschrieben wird, kann es sein, dass der:die Spielleiter:in eine Prüfung (Check) verlangt. Dann gibt es einen bestimmten Würfel (je nach Regelwerk) der dann geworfen wird und vlt. noch ein Wert aus dem Charakter-Sheet addiert/subtrahiert wird. Der ausgerechnete Wert wird dann dem:r Spielleiter:in mitgeteilt, diese:r beschreibt dann den Ausgang der Aktion.
 ## Weiterführende Links
 ### Artikel
 #### [Pen and Paper: Der ultimative Leitfaden für Einsteiger und Experten](https://mightygm.de/pen-and-paper/)
