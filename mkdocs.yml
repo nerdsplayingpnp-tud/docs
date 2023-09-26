@@ -25,5 +25,11 @@ theme:
       accent: indigo
 markdown_extensions:
   - admonition
+  - def_list
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+plugins:
+  - glightbox
